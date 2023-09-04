@@ -1,0 +1,10 @@
+### Name:  **Rasheed's Apparel**
+ 
+#### Type: **Clothing**
+
+#### Description:
+###### Find 100's of official and replica sports kits from across all major football leagues and countries. Whether to support your favorite team, or simply to look stylish - buying sport's apparel shouldn't break the bank. Official kits are reasonably priced, while replicas offer a cheaper yet high quality replacement.
+
+###
+
+###### Rasheed's Apparel has you covered! Whether it's the Premier League to the Bundesliga, and even beyond. Current kits and retro ones alike -  even fanmade ones as well! There's no limit to what you can buy - and to how much you can save!
