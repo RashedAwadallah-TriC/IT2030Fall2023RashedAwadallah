@@ -1,0 +1,36 @@
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\appsettings.Development.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\appsettings.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.staticwebassets.runtime.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.exe
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.deps.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.runtimeconfig.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.dll
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.pdb
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.TipCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.build.TipCalculator.props
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TipCalculator.props
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TipCalculator.props
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.pack.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.build.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.development.json
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\scopedcss\bundle\TipCalculator.styles.css
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.dll
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\refint\TipCalculator.dll
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.pdb
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.genruntimeconfig.cache
+D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 4\TipCalculator\obj\Debug\net6.0\ref\TipCalculator.dll
