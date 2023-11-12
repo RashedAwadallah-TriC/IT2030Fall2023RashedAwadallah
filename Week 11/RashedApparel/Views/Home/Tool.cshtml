@@ -1,0 +1,44 @@
+﻿@model RashedApparel.Models.MySession
+@{
+    ViewData["Title"] = "Tools Page";
+
+    String firstName = Context.Session.GetString("FirstName");
+    String lastName = Context.Session.GetString("LastName");
+    String course = Context.Session.GetString("Course");
+    String favNumber = Context.Session.GetString("FavNumber");
+}
+
+<h2>Session Variables</h2>
+<h4>This page displays session state information when the 'Display Session Variables' button is clicked.</h4>
+
+<div class="form">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" readonly value="@firstName" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" readonly value="@lastName" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Course" class="control-label"></label>
+                <input asp-for="Course" class="form-control" readonly value="@course" />
+                <span asp-validation-for="Course" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FavNumber" class="control-label"></label>
+                <input asp-for="FavNumber" class="form-control" readonly value="@favNumber" />
+                <span asp-validation-for="FavNumber" class="text-danger"></span>
+            </div>
+            <div class="buttons form-group">
+                <input type="button" value="Display Session Variables" class="btn btn-primary" onclick="location.href='@Url.Action("Tools", "Home")'" />
+                <input type="button" value="Clear" class="btn btn-secondary" onclick="location.href='@Url.Action("Tool", "Home")'" />
+            </div>
+        </form>
+    </div>
+</div>
