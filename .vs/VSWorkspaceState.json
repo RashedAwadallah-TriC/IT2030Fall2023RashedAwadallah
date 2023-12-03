@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Week 11"
+    "\\Week 14",
+    "\\Week 14\\RashedApparel",
+    "\\Week 14\\RashedApparel\\Views",
+    "\\Week 14\\RashedApparel\\Views\\Shared"
   ],
-  "SelectedNode": "\\Week 11\\Week9Lab.sln",
+  "SelectedNode": "\\Week 14\\RashedApparel\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

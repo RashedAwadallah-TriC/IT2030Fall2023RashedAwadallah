@@ -10,6 +10,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RashedApparel
 build_property.RootNamespace = RashedApparel
 build_property.ProjectDir = D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 11\RashedApparel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -46,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 11/RashedApparel/Views/Home/Tools.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb29scy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 11/RashedApparel/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 11/RashedApparel/Views/Product/ListProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0UHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 11/RashedApparel/Views/Shared/Error.cshtml]

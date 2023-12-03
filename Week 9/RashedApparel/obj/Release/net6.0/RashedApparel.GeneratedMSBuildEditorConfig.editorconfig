@@ -10,6 +10,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RashedApparel
 build_property.RootNamespace = RashedApparel
 build_property.ProjectDir = D:\School Stuff\IT2030\IT2030_Fall2023_RashedAwadallah\Week 9\RashedApparel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -24,12 +26,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Home/Tool.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb29sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Home/Tools.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb29scy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School Stuff/IT2030/IT2030_Fall2023_RashedAwadallah/Week 9/RashedApparel/Views/Shared/Error.cshtml]
