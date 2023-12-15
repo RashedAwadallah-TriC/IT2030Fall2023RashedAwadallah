@@ -1,0 +1,64 @@
+﻿@{
+    // THIS ENTIRE PAGE IS A NEW FEATURE
+}
+
+@model RashedApparel.Models.ReturnModel
+@{
+    ViewData["Title"] = "Returns Page";
+}
+<div class="row">
+    <h2 class="row text-start">Returns Page</h2>
+    <div class="col align-items-start">
+        <div class="row">Return Address</div>
+        <div class="row">12345 Real Place, OH 44010</div>
+        <div class="row">000-111-2222</div>
+        <div class="row">rasheedapparel@gmail.com</div>
+    </div>
+</div>
+<hr />
+<div class="form">
+    <div class="col-md-4">
+        <form asp-action="Returns">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderId" class="control-label"></label>
+                <input asp-for="OrderId" class="form-control" />
+                <span asp-validation-for="OrderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message" class="control-label"></label>
+                <textarea asp-for="Message" class="message-box form-control" rows="5"></textarea>
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="buttons form-group">
+                <input type="submit" value="Send" class="btn btn-primary" />
+                <input type="reset" value="Clear" class="btn btn-danger" />
+            </div>
+        </form>
+    </div>
+</div>
