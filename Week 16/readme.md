@@ -28,7 +28,7 @@ Changes in the code surrounded by comments in the following files.
 ### The Four Style Updates
 1. Changed the max width for the product images on the 'ListProducts' page to 200px by 250px
 2. Changed the order so that the product image on the 'Detail' page is at the bottom. Also changed max width for the product image to 320px by 400px
-3. Changed the color of the '<h1>' on both the product list page and detail page
+3. Changed the color of the h1 on both the product list page and detail page
 4. Centered the entire Events Page
 
 All changes can be found in the following files.
